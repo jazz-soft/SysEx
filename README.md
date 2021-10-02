@@ -14,7 +14,7 @@
 ## [ 43 ] - [Yamaha](43.md)
 - `F0 43 1x 4C 00 00 7E 00 F7` - XG System On (XG)
 
-## [ 41 ] - Roland
+## [ 41 ] - [Roland](41.md)
 - `F0 41 xx 42 12 40 00 7F 00 41 F7` - GS Reset (GS)
 
 ## [ 00 20 24 ] - MidiSoft
