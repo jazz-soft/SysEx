@@ -3,6 +3,8 @@
 ## [ 7F ] - Universal Real-Time
 - `F0 7F xx 04 01 xx xx F7` - Master Volume
 - `F0 7F xx 04 02 xx xx F7` - Master Balance
+- `F0 7F xx 04 03 xx xx F7` - Master Fine Tuning
+- `F0 7F xx 04 04 xx xx F7` - Master Coarse Tuning
 
 ## [ 7E ] - Universal Non-Real-Time
 - `F0 7E xx 06 01 F7` - Device ID Request
